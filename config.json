@@ -1,0 +1,22 @@
+{
+  "emotion_presets": {
+    "happy": {"rate": 1.05, "pitch": 1.08, "volume": 1.05},
+    "sad": {"rate": 0.9, "pitch": 0.95, "volume": 0.9},
+    "excited": {"rate": 1.15, "pitch": 1.15, "volume": 1.1},
+    "calm": {"rate": 0.95, "pitch": 0.98, "volume": 0.95},
+    "angry": {"rate": 1.1, "pitch": 1.05, "volume": 1.15},
+    "whisper": {"rate": 0.9, "pitch": 0.95, "volume": 0.7},
+    "emphasis": {"rate": 0.95, "pitch": 1.05, "volume": 1.2},
+    "strong": {"rate": 0.9, "pitch": 1.1, "volume": 1.15}
+  },
+  "modifier_presets": {
+    "slower": {"rate": 0.9},
+    "faster": {"rate": 1.1},
+    "slower2x": {"rate": 0.8},
+    "faster2x": {"rate": 1.2},
+    "quieter": {"volume": 0.8},
+    "louder": {"volume": 1.2},
+    "higher": {"pitch": 1.1},
+    "lower": {"pitch": 0.9}
+  }
+}

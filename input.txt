@@ -1,0 +1,51 @@
+[happy,emphasis]Welcome to our video presentation![/]
+
+[pause:1.5]
+
+My name is Sarah, and today we'll explore the fascinating world of artificial intelligence.
+
+[excited,faster]This technology is revolutionizing everything we do![/]
+
+[pause:1.0]
+
+[calm,slower]Let's start with the basics.[/] 
+
+Artificial intelligence, or [spell]AI[/], refers to computer systems that can perform tasks typically requiring human intelligence.
+
+[emphasis]These include learning, reasoning, and perception.[/]
+
+[pause:0.8]
+
+[happy]There are three main types of [spell]AI[/]:[/]
+
+[pause:0.5]
+
+First, [emphasis]Narrow [spell]AI[/][/] - which excels at specific tasks like chess or image recognition.
+
+[pause:0.5]
+
+Second, [emphasis]General [spell]AI[/][/] - which would match human cognitive abilities across all domains.
+
+[pause:0.5]
+
+And third, [emphasis]Super [spell]AI[/][/] - which would surpass human intelligence in every field.
+
+[pause:1.0]
+
+[excited]The applications are endless![/]
+
+From healthcare and transportation to education and entertainnment, [spell]AI[/] is transforming our world.
+
+[pause:1.5]
+
+[calm,slower]But with great power comes great responsibility.[/]
+
+We must ensure [spell]AI[/] development remains ethical and beneficial for all humanity.
+
+[pause:1.0]
+
+[happy,emphasis]Thank you for watching![/] 
+
+[calm]Stay curious, and keep learning about this amazing technology.[/]
+
+[pause:2.0]

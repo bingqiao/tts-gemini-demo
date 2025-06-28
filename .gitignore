@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+env/
+venv/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Output files
+output.*
+*.wav
+*.mp3
+*.srt
+
+# Test output
+test_output/
+
+# Generated output
+out/
+out/debug_*/

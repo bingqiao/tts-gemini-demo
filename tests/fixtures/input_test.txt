@@ -1,0 +1,16 @@
+[happy,emphasis]Welcome to our video presentation![/]
+
+[pause:1.5]
+
+Artificial intelligence, or AI, refers to computer systems that can perform tasks typically requiring human intelligence.
+
+[emphasis]These include learning, reasoning, and perception.[/]
+
+[pause:0.8]
+
+[happy]There are three main types of AI:[/]
+
+[pause:0.5]
+
+First, [emphasis]Narrow AI[/] - which excels at specific tasks like chess or image recognition.
+
